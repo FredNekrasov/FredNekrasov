@@ -1,8 +1,8 @@
 ## <p align="center">Асылбек уулу Бакыт</p>
 
-|Возраст|Телеграм|Почта|GitHub|Гражданство|
-|:----:|:----:|:----:|:----:|:----:|
-|19 лет|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|https://github.com/FredNekrasov|Кыргызская Республика|
+|Возраст|Телеграм|Почта|Гражданство|
+|:----:|:----:|:----:|:----:|
+|19 лет|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская Республика|
 
 **Навыки**:  
 + Языки программирования: `C#`, `Java`, `Kotlin`.
