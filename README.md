@@ -1,18 +1,18 @@
 ## <p align="center">Асылбек уулу Бакыт</p>
 
-|Возраст|Телеграм|Почта|Гражданство|
+|age|telegram|e-mail|nationality|
 |:----:|:----:|:----:|:----:|
-|19 лет|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская Республика|
+|19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Kyrgyz Republic|
 
-**Навыки**:  
-+ Языки программирования: `C#`, `Java`, `Kotlin`.
-+ Среды разработки: `MS Visual Studio`, `Intellij IDEA`, `Android Studio`.
-+ Платформы: `.NET Framework`, `.NET`, `Android SDK`.
-+ Базы данных: `MS SQL Server`, `MySQL`, `SQLite`.
-+ Парадигмы, принципы и архитектуры: ООП, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
-+ Тестирование, умение разбираться в чужом коде, рефакторинг кода.  
+**Hard skills**:  
++ Programming languages: `C#`, `Kotlin`.
++ IDEs: `MS Visual Studio`, `Intellij IDEA`, `Android Studio`.
++ Frameworks: .NET Framework, .NET/.NET Core, Android SDK.
++ Databases: MS SQL Server, MySQL, SQLite.
++ Paradigms, principles and architectures: OOP, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
++ Testing, code refactoring.  
 
-Качества: исполнительность, усидчивость, ответственность, аккуратность.
+**Качества**: исполнительность, усидчивость, ответственность, аккуратность.
 ### Среднее профессиональное образование
 **Учебное заведение**: Федерального государственного бюджетного образовательного учреждение высшего образования "Московский государственный университет технологии и управления имени К. Г. Разумовского (Первый казачий университет)" Университетского колледжа информационных технологий  
 **Специальность**: Информационные системы и программирование  
