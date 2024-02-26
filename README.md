@@ -6,7 +6,7 @@
 
 **Hard skills**:  
 + Programming languages: `C#`, `Kotlin`.
-+ IDEs: `MS Visual Studio`, `Intellij IDEA`, `Android Studio`.
++ IDEs: `MS Visual Studio`, `Android Studio`.
 + Frameworks: .NET Framework, .NET/.NET Core, Android SDK.
 + Databases: MS SQL Server, MySQL, SQLite.
 + Paradigms, principles and architectures: OOP, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
