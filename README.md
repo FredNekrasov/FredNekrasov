@@ -1,16 +1,16 @@
-## <p align="center">Асылбек уулу Бакыт</p>
+# <p align="center">Асылбек уулу Бакыт</p>
 
-|age|telegram|e-mail|nationality|
+|Возраст|telegram|e-mail|гражданство|
 |:----:|:----:|:----:|:----:|
 |19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Kyrgyz Republic|
 
-**Hard skills**:  
-+ Programming languages: `C#`, `Kotlin`.
-+ IDEs: `MS Visual Studio`, `Android Studio`.
+**Навыки**:  
++ Языки программирования: `C#`, `Kotlin`.
++ Среды разработки: `MS Visual Studio`, `Android Studio`.
 + Frameworks: .NET Framework, .NET/.NET Core, Android SDK.
-+ Databases: MS SQL Server, MySQL, SQLite.
-+ Paradigms, principles and architectures: OOP, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
-+ Testing, code refactoring.  
++ Базы данных: MS SQL Server, MySQL, SQLite.
++ Парадигмы, принципы и архитектуры: OOP, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
++ Тестирование, code refactoring.  
 
 **Качества**: исполнительность, усидчивость, ответственность, аккуратность.
 ### Среднее профессиональное образование
