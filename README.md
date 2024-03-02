@@ -2,7 +2,7 @@
 
 |Возраст|telegram|e-mail|гражданство|
 |:----:|:----:|:----:|:----:|
-|19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Kyrgyz Republic|
+|19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|
 
 **Навыки**:  
 + Языки программирования: `C#`, `Kotlin`.
