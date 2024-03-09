@@ -1,15 +1,17 @@
 # <p align="center">Асылбек уулу Бакыт</p>
 
+# Android developer
+
 |Возраст|telegram|e-mail|гражданство|
 |:----:|:----:|:----:|:----:|
 |19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|
 
 ***Навыки***: 
 -
-+ Языки программирования: `C#`, `Kotlin`.
-+ Среды разработки: `MS Visual Studio`, `Android Studio`.
-+ Frameworks: .NET Framework, .NET/.NET Core, Android SDK.
-+ Базы данных: MS SQL Server, MySQL, SQLite.
++ Языки программирования: `Kotlin`.
++ Среды разработки: `Android Studio`.
++ Frameworks: Android SDK.
++ Базы данных: SQLite.
 + Парадигмы, принципы и архитектуры: OOP, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
 + Тестирование, code refactoring.  
 
