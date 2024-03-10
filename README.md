@@ -2,20 +2,16 @@
 
 # Android developer
 
+//jgbcfybt
+
+**Навыки:**
++ Android: Kotlin, Views, Jetpack Compose, Coroutines, Retrofit2, Room, Dagger-Hilt, Koin, SOLID, Single Activity, REST APIs, MVVM, MVI, Clean architecture.
++ C#: WPF, ASP.NET Core Web API, MS SQL Server, Entity Framework Core, SOLID, REST.
++ Общее: Git, тестирование, рефакторинг кода, умение разбираться в чужом коде
+
 |Возраст|telegram|e-mail|гражданство|
 |:----:|:----:|:----:|:----:|
 |19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|
-
-***Навыки***: 
--
-+ Языки программирования: `Kotlin`.
-+ Среды разработки: `Android Studio`.
-+ Frameworks: Android SDK.
-+ Базы данных: SQLite.
-+ Парадигмы, принципы и архитектуры: OOP, SOLID, KISS, YAGNI, DRY, Single Activity, REST, MVVM, MVI, Clean architecture.
-+ Тестирование, code refactoring.  
-
-**Качества**: исполнительность, усидчивость, ответственность, аккуратность.
 
 Среднее профессиональное образование
 -
