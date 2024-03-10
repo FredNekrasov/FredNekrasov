@@ -5,6 +5,11 @@
 ## Описание
 Привет! Я Android разработчик с опытом работы в разработке мобильных приложений на `Kotlin`. Мои проекты включают использование `Jetpack Compose`, `Coroutines`, `Retrofit2`, `Room`, `Dagger-Hilt`, `Koin` для создания приложений. Я применяю принципы `SOLID`, использую `Single Activity`, работаю с `REST API`, и использую архитектурные паттерны `MVVM`, `MVI`, `Clean architecture` для создания удобного и масштабируемого кода.
 
+**Проекты:**
+- [ByBit Shop - тестовое задание](https://github.com/FredNekrasov/Bybit_Shop)
+- [Развитие навыков](https://github.com/FredNekrasov/my-tests)
+- [Schedule App](https://github.com/FredNekrasov/Android-app-for-viewing-schedules)
+
 **Мои основные навыки и инструменты разработки:**
 - Язык программирования: `Kotlin`
 - Пользовательский интерфейс: `Views`, `Jetpack Compose`
