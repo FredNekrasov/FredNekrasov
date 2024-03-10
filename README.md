@@ -39,6 +39,7 @@
 - Языки программирования: C#
 - Платформы: .NET Framework, .NET Core, ASP.NET Core
 - Технологии: Windows Forms, WPF, Web API
+- ORM, взаимодействие с базой данных: entity framework Core, entity framework 6
 - Базы данных: SQL Server, MySQL
 - Инструменты разработки: Visual Studio, GIT
 
