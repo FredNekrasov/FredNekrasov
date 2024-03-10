@@ -1,13 +1,43 @@
 # <p align="center">Асылбек уулу Бакыт</p>
 
-# Android developer
+<details><summary><b>Android developer</b></summary>
 
-//jgbcfybt
+## Описание
+Привет! Я Android разработчик с опытом работы в разработке мобильных приложений на `Kotlin`. Мои проекты включают использование `Jetpack Compose`, `Coroutines`, `Retrofit2`, `Room`, `Dagger-Hilt`, `Koin` для создания приложений. Я применяю принципы `SOLID`, использую `Single Activity`, работаю с `REST API`, и использую архитектурные паттерны `MVVM`, `MVI`, `Clean architecture` для создания удобного и масштабируемого кода.
+
+**Мои основные навыки и инструменты разработки:**
+- Язык программирования: `Kotlin`
+- Пользовательский интерфейс: `Views`, `Jetpack Compose`
+- Асинхронное программирование: `Coroutines`
+- Работа с сетью: `Retrofit2`
+- Хранение данных: `Room`
+- Dependency Injection: `Dagger-Hilt`, `Koin`
+- Принципы разработки: `SOLID`, `Clean Architecture`
+- Архитектурные паттерны: `MVVM`, `MVI`
+- Организация навигации: `Single Activity`
+- Взаимодействие с сервером: `REST APIs`
+- Тестирование: `Unit`, `UI` (на jetpack compose)
+- Инструменты разработки: `Android Studio`, `Git`
+
+</details>
+
+<details><summary><b>C# developer</b></summary>
+
+## Обо мне
+Я занимался разработкой desktop приложений с использованием `Windows Forms` и `WPF`. Создание интерфейсов и логика приложений - всё это было в моей зоне ответственности! А также разрабатывал `Web API` на платформе `.NET` с использованием `ASP.NET Core Web API`. Я уверенно взаимодействую с базами данных, используя `Entity Framework` для удобной и эффективной работы с данными. Мой опыт также включает разработку баз данных на `MS SQL Server`, обеспечивая их стабильную работу и эффективное хранение информации.
+
+### Опыт работы:
+- В период с мая 2022 по июнь 2023 занимался разработкой desktop приложений на `.NET`/`.NET Framework` с использованием технологий `Windows Forms` и `WPF`. Иногда учавствовал в разработке баз данных на `MS SQL Server`. Cоздавал структуры для хранения данных, обеспечивая их быстрый доступ. Для работы данными использовал `Entity Framework`, обеспечивая удобное взаимодействие с базой данных.  
+- С декабря 2023 года по март 2024 разрабатывал Web API, которое хранило данные по автоматизации разработки расписания, для настольного и мобильного приложений. На начальном этапе были сложные проблемы с преобразованием данных, но через некоторое время получилось разобраться и решить данную проблему.
 
 **Навыки:**
-+ Android: Kotlin, Views, Jetpack Compose, Coroutines, Retrofit2, Room, Dagger-Hilt, Koin, SOLID, Single Activity, REST APIs, MVVM, MVI, Clean architecture.
-+ C#: WPF, ASP.NET Core Web API, MS SQL Server, Entity Framework Core, SOLID, REST.
-+ Общее: Git, тестирование, рефакторинг кода, умение разбираться в чужом коде
+- Языки программирования: C#
+- Платформы: .NET Framework, .NET Core, ASP.NET Core
+- Технологии: Windows Forms, WPF, Web API
+- Базы данных: SQL Server, MySQL
+- Инструменты разработки: Visual Studio, GIT
+
+</details>
 
 |Возраст|telegram|e-mail|гражданство|
 |:----:|:----:|:----:|:----:|
