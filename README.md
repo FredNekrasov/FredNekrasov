@@ -7,7 +7,7 @@
 
 **Проекты:**
 - [ByBit Shop - тестовое задание](https://github.com/FredNekrasov/Bybit_Shop)
-- [Развитие навыков](https://github.com/FredNekrasov/my-tests)
+- [My tests](https://github.com/FredNekrasov/my-tests)
 - [Schedule App](https://github.com/FredNekrasov/Android-app-for-viewing-schedules)
 
 **Мои основные навыки и инструменты разработки:**
