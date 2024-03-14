@@ -9,6 +9,7 @@
 - [ByBit Shop - тестовое задание](https://github.com/FredNekrasov/Bybit_Shop)
 - [My tests](https://github.com/FredNekrasov/my-tests)
 - [Schedule App](https://github.com/FredNekrasov/Android-app-for-viewing-schedules)
+- [Android projects](https://github.com/FredNekrasov/My-first-app-on-jetpack-compose)
 
 **Мои основные навыки и инструменты разработки:**
 - Язык программирования: `Kotlin`
