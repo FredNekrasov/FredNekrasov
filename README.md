@@ -5,13 +5,13 @@
 ## Описание
 Привет! Я Android разработчик с опытом работы в разработке мобильных приложений на `Kotlin`. Мои проекты включают использование `Jetpack Compose`, `Coroutines`, `Retrofit2`, `Room`, `Dagger-Hilt`, `Koin` для создания приложений. Я применяю принципы `SOLID`, использую `Single Activity`, работаю с `REST API`, и использую архитектурные паттерны `MVVM`, `MVI`, `Clean architecture` для создания удобного и масштабируемого кода.
 
-**Проекты:**
+### Проекты:
 - [ByBit Shop - тестовое задание](https://github.com/FredNekrasov/Bybit_Shop)
 - [My tests](https://github.com/FredNekrasov/my-tests)
 - [Schedule App](https://github.com/FredNekrasov/Android-app-for-viewing-schedules)
 - [Android projects](https://github.com/FredNekrasov/My-first-app-on-jetpack-compose)
 
-**Мои основные навыки и инструменты разработки:**
+### Навыки и инструменты разработки:
 - Язык программирования: `Kotlin`
 - Пользовательский интерфейс: `Views`, `Jetpack Compose`
 - Асинхронное программирование: `Coroutines`
@@ -36,7 +36,7 @@
 - Занимался разработкой desktop приложений на `.NET`/`.NET Framework` с использованием технологий `Windows Forms` и `WPF`. Иногда учавствовал в разработке баз данных на `MS SQL Server`. Cоздавал структуры для хранения данных, обеспечивая их быстрый доступ. Для работы данными использовал `Entity Framework`, обеспечивая удобное взаимодействие с базой данных.  
 - Разрабатывал [Web API](https://github.com/FredNekrasov/service_for_storing_schedules), которое хранило данные по автоматизации разработки расписания, для настольного и мобильного приложений. На начальном этапе были сложные проблемы с преобразованием данных, но через некоторое время получилось разобраться и решить данную проблему.
 
-**Навыки:**
+### Навыки:
 - Языки программирования: C#
 - Платформы: .NET Framework, .NET Core, ASP.NET Core
 - Технологии: Windows Forms, WPF, Web API
