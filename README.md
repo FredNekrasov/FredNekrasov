@@ -37,7 +37,7 @@
 - Разрабатывал [Web API](https://github.com/FredNekrasov/service_for_storing_schedules), которое хранило данные по автоматизации разработки расписания, для настольного и мобильного приложений. На начальном этапе были сложные проблемы с преобразованием данных, но через некоторое время получилось разобраться и решить данную проблему.
 
 ### Проекты:
-- [TimetableCreator]()
+- [TimetableCreator](https://github.com/FredNekrasov/TimetableCreator)
 - [TimetableAPI](https://github.com/FredNekrasov/TimetableAPI)
 
 ### Навыки и инструменты разработки:
