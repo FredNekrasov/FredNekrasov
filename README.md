@@ -55,7 +55,7 @@
 
 ## Разработка автоматизированной системы для составления расписания.
 
-пока составляю описание ||Hello world||
+пока составляю описание
 ### Результат:
 - [TimetableCreator](https://github.com/FredNekrasov/TimetableCreator)
 - [TimetableAPI](https://github.com/FredNekrasov/TimetableAPI)
