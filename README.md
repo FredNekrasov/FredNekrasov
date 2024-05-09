@@ -11,6 +11,7 @@
 
 ### Проекты:
 - [ByBit Shop - тестовое задание](https://github.com/FredNekrasov/Bybit_Shop)
+- [ANT-Android-App](https://github.com/FredNekrasov/ANT-Android-App)
 - [My tests](https://github.com/FredNekrasov/my-tests)
 - [Schedule App](https://github.com/FredNekrasov/Android-app-for-viewing-schedules)
 - [Android projects](https://github.com/FredNekrasov/My-first-app-on-jetpack-compose)
@@ -35,10 +36,6 @@
 ## Обо мне
 Я занимался разработкой desktop приложений с использованием `Windows Forms` и `WPF`. Больше занимался логикой приложений, нежели пользовательским интерфейсом. А также разрабатывал `Web API` на платформе `.NET` с использованием `ASP.NET Core Web API`. Я уверенно взаимодействую с базами данных, использую `Entity Framework` для удобной и эффективной работы с данными. Мой опыт также включает разработку баз данных на `MS SQL Server`, обеспечивая их стабильную работу и эффективное хранение информации.
 
-### Опыт работы:
-- Занимался разработкой desktop приложений на `.NET`/`.NET Framework` с использованием `WPF`. Иногда участвовал в разработке баз данных на `MS SQL Server`. Cоздавал структуры для хранения данных, обеспечивая их быстрый доступ. Для работы данными использовал `Entity Framework`, обеспечивая удобное взаимодействие с базой данных.  
-- Разрабатывал [Web API](https://github.com/FredNekrasov/service_for_storing_schedules), которое хранило данные по автоматизации разработки расписания, для настольного и мобильного приложений.
-
 ### Проекты:
 - [TimetableCreator](https://github.com/FredNekrasov/TimetableCreator)
 - [TimetableAPI](https://github.com/FredNekrasov/TimetableAPI)
@@ -51,6 +48,26 @@
 - ORM, взаимодействие с базой данных: entity framework core
 - Базы данных: SQLite, SQL Server.
 - Инструменты разработки: Visual Studio, GIT.
+
+</details>
+
+<details><summary><b>Опыт работы/Проекты:</b></summary>
+
+## Разработка автоматизированной системы для составления расписания.
+
+пока составляю описание ||Hello world||
+### Результат:
+- [TimetableCreator](https://github.com/FredNekrasov/TimetableCreator)
+- [TimetableAPI](https://github.com/FredNekrasov/TimetableAPI)
+- [Schedule App](https://github.com/FredNekrasov/Android-app-for-viewing-schedules)
+
+## Разработка мобильного клиента для православного храма.
+
+пока составляю описание/ **Проект еще не завершен**
+### Результат:
+- [Alexander Nevsky Temple API](https://github.com/FredNekrasov/ANT-Web-API)
+- [ANT-Android-App](https://github.com/FredNekrasov/ANT-Android-App)
+- [ANT-Parser](https://github.com/FredNekrasov/ANT-Parser)
 
 </details>
 
