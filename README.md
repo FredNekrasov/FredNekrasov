@@ -1,8 +1,8 @@
 # <p align="center">Асылбек уулу Бакыт</p>
 
-|Возраст|telegram|e-mail|гражданство|
-|:----:|:----:|:----:|:----:|
-|19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|
+|Возраст|telegram|e-mail|Гражданство|Посетители|
+|:----:|:----:|:----:|:----:|----:|
+|19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|![](https://komarev.com/ghpvc/?username=FredNekrasov&color=gray)|
 
 <details><summary><b>Android developer</b></summary>
 
@@ -84,4 +84,5 @@
 - Английский – B1 – Средний
 
 [![Fred's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredNekrasov&show_icons=true&theme=vue&border_radius=9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FredNekrasov)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredNekrasov&theme=vue&border_radius=9&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
