@@ -1,7 +1,7 @@
 # <p align="center">Асылбек уулу Бакыт</p>
 
 |Возраст|telegram|e-mail|Гражданство|Посетители|
-|:----:|:----:|:----:|:----:|----:|
+|:----:|:----:|:----:|:----:|:----:|
 |19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|![](https://komarev.com/ghpvc/?username=FredNekrasov&color=gray)|
 
 <details><summary><b>Android developer</b></summary>
