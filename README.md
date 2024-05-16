@@ -1,6 +1,6 @@
 # <p align="center">Асылбек уулу Бакыт</p>
 
-|Возраст|telegram|e-mail|Гражданство|Посетители|
+|Возраст|telegram|e-mail|Гражданство|Количество людей, посещавших эту страницу|
 |:----:|:----:|:----:|:----:|:----:|
 |19|https://t.me/fred_nekrasov|frednekrasov49@gmail.com|Кыргызская республика|![](https://komarev.com/ghpvc/?username=FredNekrasov&color=gray)|
 
