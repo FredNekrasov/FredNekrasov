@@ -38,7 +38,7 @@ Dependency Injection: `Dagger-Hilt`, `Koin`;
 - Технологии: `WPF`, `Web API`;
 - ORM, взаимодействие с базой данных: `ef6`, `entity framework core`;
 - Базы данных: `SQLite`, `SQL Server`;
-- Инструменты разработки: `Visual Studio`, `GIT`.
+- Инструменты разработки: `Visual Studio`, `Git`.
 
 </details>
 
