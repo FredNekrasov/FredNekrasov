@@ -18,7 +18,7 @@ Android Kotlin разработчик
 Пользовательский интерфейс: `Android Views`, `Jetpack Compose`;  
 Асинхронное программирование: `Coroutines`, `flow`;  
 Работа с сетью: `Retrofit2`, `Ktor-client`;  
-Хранение данных: `Room`;  
+Хранение данных: `Room`, `SQLDelight`;  
 Dependency Injection: `Dagger-Hilt`, `Koin`;  
 Архитектура, принципы и паттерны: `REST`, `Single Activity`, `SOLID`, `Clean Architecture`, `MVVM`, `MVI`;  
 Взаимодействие с сервером: `REST API`;  
@@ -30,14 +30,14 @@ Dependency Injection: `Dagger-Hilt`, `Koin`;
 <details><summary><b>C# developer</b></summary>
 
 ## Обо мне
-Я занимался разработкой desktop приложений с использованием `Windows Forms` и `WPF`. Больше занимался логикой приложений, нежели пользовательским интерфейсом. А также разрабатывал `Web API` на платформе `.NET` с использованием `ASP.NET Core Web API`. Я уверенно взаимодействую с базами данных, использую `Entity Framework` для удобной и эффективной работы с данными. Мой опыт также включает разработку баз данных на `MS SQL Server`, обеспечивая их стабильную работу и эффективное хранение информации.
+Я занимался разработкой desktop приложений с использованием `Windows Forms` и `WPF`. Больше занимался логикой приложений, нежели пользовательским интерфейсом. А также разрабатывал `Web API` на платформе `.NET` с использованием `ASP.NET Core Web API`. Я уверенно взаимодействую с базами данных, использую `Entity Framework` для удобной и эффективной работы с данными.
 
 ### Навыки и инструменты разработки:
 - Языки программирования: `C#`;
 - Платформы: `.NET Framework`, `.NET Core`, `ASP.NET Core`;
 - Технологии: `WPF`, `Web API`;
 - ORM, взаимодействие с базой данных: `ef6`, `entity framework core`;
-- Базы данных: `SQLite`, `SQL Server`;
+- Базы данных: `SQLite`, `MS SQL Server`;
 - Инструменты разработки: `Visual Studio`, `Git`.
 
 </details>
